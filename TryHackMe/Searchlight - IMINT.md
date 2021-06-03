@@ -112,3 +112,32 @@ What is the name of this statue? sl{Rudolph the Chrome Nosed Reindeer}
 
 Who took this image? sl{Kjersti Stensrud}
 
+# ...and justice for all
+
+![](https://i.imgur.com/Cb7rxN7.png)
+
+# Solution
+
+Google image reverse search told me that this is lady justice. It also led me to a similar image which revealed the name of the building behind the statue: "Bryan United States Courthouse". I was able to find the opposite building on Google Map.
+
+![](https://i.imgur.com/7a4xpPe.png)
+
+What is the name of the character that the statue depicts? sl{lady justice}
+
+Where is this statue located? sl{alexandria, virginia}
+
+What is the name of the building opposite from this statue? sl{The Westin Alexandria Old Town}
+
+# The view from my hotel room
+
+A video of the surroundings from the perspective of the person living in the hotel.
+
+# Solution
+
+I saw a lot of key structures. The one that caught my attention was the riverside point shopping centre. I googled it and realized it's located in Singapore.
+
+I went to Google map and unfortunately I was not able to find the hotel name as I searched for "nearby" hotels. I am guessing it's because the hotel is permanently closed as of June 2021. Nevertheless, I went to that exact location and looked at the past photos taken by Google and I was able to find the hotel logo.
+
+![](https://i.imgur.com/ORASHY7.jpg)
+
+What is the name of the hotel that my friend is staying in? sl{Novotel Singapore Clarke Quay}
