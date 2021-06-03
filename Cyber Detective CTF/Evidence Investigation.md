@@ -138,3 +138,11 @@ Enter the flag as such: (HOODIE COLOUR) (SPACE) (T-SHIRT COLOUR)
 ![drone-1](https://user-images.githubusercontent.com/81070073/120705967-54e97f00-c46d-11eb-86d5-104c017e261b.JPG)
 
 # rollingeyes - solution
+
+I went to google map and searched for "Poppy-n-Pals Pet Care Service" for the general location.
+
+Once I have found the general location, I planned to look at the street view from bottom right corner counterclockwise from outer street to inner street. Within minutes of clicking through street view, I have found the target on Amherst Cres.
+
+![image](https://user-images.githubusercontent.com/81070073/120707644-72b7e380-c46f-11eb-9458-8bd24b9a207d.png)
+
+Answer: red blue
