@@ -282,7 +282,7 @@ I need to calculate the product of the bitcoin open price for that currency on 1
 
 I wrote a script that would iterate each currency, parse the open price of BTC on that day from Yahoo Finance for that currency, calculate the product, and print out the results.
 
-'''
+```
 
 import re
 import requests
@@ -319,6 +319,6 @@ CNY: 232171.37
 JPY: 3627980.04
 RUB: 2141243.49
 
-'''
+```
 
 Answer: Australia
