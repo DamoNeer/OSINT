@@ -254,3 +254,21 @@ LINGUIST'S EXTRACT: https://pastebin.com/mkQYkMk9
 
 Answer: clouds
 
+# hostiletakeover - challenge
+
+We know there is publicly searchable data made available by the Land Registry which could help us with what we're after.
+
+Can you find out the BUSINESS NAME of the previous owner of the property that can be inferred from the seized bank statement?
+
+![image](https://user-images.githubusercontent.com/81070073/120716529-07740e80-c47b-11eb-8cbf-c0fbc7558838.png)
+
+# hostiletakeover - solution
+
+Navigating to Land Registry and clicking "Search house prices" will lead you to this site: https://landregistry.data.gov.uk/app/ppd
+
+I set both min and max price to be 425000000 and date ranges from 2019-08-02 to 2019-10-02.
+
+![image](https://user-images.githubusercontent.com/81070073/120717022-ba446c80-c47b-11eb-9f8d-06535efd4658.png)
+
+Answer: Tesco
+
