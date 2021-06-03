@@ -97,3 +97,18 @@ I looked up its daily flight schedule and I noticed that the first flight tends 
 However, 7:00am is not the answer. 7:20am is the correct answer after a few tries using 7:00am as a baseline.
 
 Answer: 07:20
+
+# inplainsight - challenge
+
+Please tell us what the HIDDEN MESSAGE within the specimen image provided is.
+
+Stegosaurus: https://mystegosaurus.co.uk/
+
+![specimen-image](https://user-images.githubusercontent.com/81070073/120705282-7bf38100-c46c-11eb-99c7-db51eb9da7a6.png)
+
+# inplainsight - solution
+
+This one was surprisingly straightforward. I just uploaded the image on the given steganography website and decoded it without giving a passphrase.
+
+Answer: Meet me at London Heathrow Airport at the usual time where we will begin executing our plan.
+
