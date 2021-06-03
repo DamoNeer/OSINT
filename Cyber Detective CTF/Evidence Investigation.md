@@ -75,3 +75,25 @@ The first link I clicked after using the key phrase "technology services limited
 https://find-and-update.company-information.service.gov.uk/company/01867162/filing-history/MzI1Mjc3OTE3NGFkaXF6a2N4/document?format=pdf&download=0
 
 Answer: 102.347
+
+# readyfortakeoff - challenge
+
+Please find the TIME OF ARRIVAL AT DESTINATION of that first flight, so that we can place officers to arrest them.
+
+Once again we have very little to go on, aside from what I think is a camera feed.
+
+LIVE CAMERA FEED: http://87.54.59.228
+
+![camfeed-3](https://user-images.githubusercontent.com/81070073/120705045-2919c980-c46c-11eb-825d-e5a505d8dd3b.JPG)
+
+# readyfortakeoff - solution
+
+This challenge was weird and possibly it's because I am doing this challenge a year later.
+
+The camera feed shows me that the departing airport is going to be Bornholm Airport in Denmark. 
+
+I looked up its daily flight schedule and I noticed that the first flight tends to be DX31 which departs at 6:20am and arrives at Copenhagen at 7:00am. I have also made sure to look at the same day of the week which is a Wednesday according to the camera feed.
+
+However, 7:00am is not the answer. 7:20am is the correct answer after a few tries using 7:00am as a baseline.
+
+Answer: 07:20
