@@ -48,3 +48,28 @@ Use an online barcode reader to get information about the flight: https://online
 
 Answer: 22B
 
+# bigbrother - challenge
+
+Find the country
+
+Live camera feed: http://81.82.201.132
+
+# bigbrother - solution
+
+I looked up the location of the ip address and I found out which country it's located in.
+
+Answer: Belgium
+
+# balancethebooks - challenge
+
+Given its confirmation statement made on 31 Dec 2019, find how much cash is held by the company "TECHNOLOGY SERVICES LIMITED".
+
+Gives answer in thousands.
+
+# balancethebooks - solution
+
+The first link I clicked after using the key phrase "technology services limited company number lookup" led me to the publicly available financial statements and one of which is a balance sheet made on 31 March 2019 that states how much cash the company holds at that time.
+
+https://find-and-update.company-information.service.gov.uk/company/01867162/filing-history/MzI1Mjc3OTE3NGFkaXF6a2N4/document?format=pdf&download=0
+
+Answer: 102.347
