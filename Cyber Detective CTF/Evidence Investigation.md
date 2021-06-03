@@ -68,6 +68,8 @@ Gives answer in thousands.
 
 # balancethebooks - solution
 
+https://find-and-update.company-information.service.gov.uk/company/01867162/filing-history
+
 The first link I clicked after using the key phrase "technology services limited company number lookup" led me to the publicly available financial statements and one of which is a balance sheet made on 31 March 2019 that states how much cash the company holds at that time.
 
 https://find-and-update.company-information.service.gov.uk/company/01867162/filing-history/MzI1Mjc3OTE3NGFkaXF6a2N4/document?format=pdf&download=0
