@@ -228,3 +228,29 @@ I used "Jeffrey's Image Metadata Viewer" to look at the exif data of the photo.
 ![image](https://user-images.githubusercontent.com/81070073/120713078-481d5900-c476-11eb-81b7-4a9b49966aa3.png)
 
 Answer: Moto G3
+
+# xorelse - challenge
+
+QeOhnsr{KuZu)(
+
+Enter the WiFi password as the flag.
+
+# xorelse - solution
+
+I tried to bruteforce with Cyberchef and that didn't seem to work. I found another tool that will bruteforce for me:
+https://scwf.dima.ninja/#
+
+![image](https://user-images.githubusercontent.com/81070073/120714122-a4cd4380-c477-11eb-972b-a78382e88aa9.png)
+
+# mothertongue - challenge
+
+I copied the text from pastebin to my notepad and I found a string that is different from the rest.
+
+We can't make sense of it, find whatever is lurking in there? It could be big or small. It could be meaningful or meaningless. But its there.
+
+LINGUIST'S EXTRACT: https://pastebin.com/mkQYkMk9
+
+![image](https://user-images.githubusercontent.com/81070073/120715444-73557780-c479-11eb-849b-0cba16332840.png)
+
+Answer: clouds
+
