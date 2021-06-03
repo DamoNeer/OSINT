@@ -272,3 +272,53 @@ I set both min and max price to be 425000000 and date ranges from 2019-08-02 to 
 
 Answer: Tesco
 
+# bitcoinbuster - challenge
+
+Based on the 3.581074451254057 BTC figure being obtained on 1st Feb 2020 from the Market Open price alone, which COUNTRY is the ransomware creator most likely to be from?
+
+# bitcoinbuster - solution
+
+I need to calculate the product of the bitcoin open price for that currency on 1st Feb 2020 and the bitcoin transaction amount for each currency.
+
+I wrote a script that would iterate each currency, parse the open price of BTC on that day from Yahoo Finance for that currency, calculate the product, and print out the results.
+
+'''
+
+import re
+import requests
+from bs4 import BeautifulSoup
+
+
+def location_checker(currency):
+    BTC_amount = 3.581074451254057
+    epoch = str(1580515200)  # February 1, 2020 12:00 AM
+    url = 'https://finance.yahoo.com/quote/BTC-'+currency + \
+        '/history?period1='+epoch+'&period2='+epoch + \
+        '&interval=1d&filter=history&frequency=1d&includeAdjustedClose=true'
+    soup = str(BeautifulSoup((requests.get(url)).text))
+    Regex_Pattern_open = r'(?<=data-reactid="55">)[\d,.]+'
+    product = "{:.2f}".format(float(
+        ((re.search(Regex_Pattern_open, soup)).group().replace(',', ''))) * BTC_amount)
+    print(currency + ": " + product)
+
+
+currency_list = ['USD', 'EUR', 'CAD', 'GBP',
+                 'INR', 'KRW', 'AUD', 'CNY', 'JPY', 'RUB']
+
+for currency in currency_list:
+    location_checker(currency)
+
+USD: 33470.01
+EUR: 30166.47
+CAD: 44306.23
+GBP: 25347.24
+INR: 2393071.80
+KRW: 40029117.72
+AUD: 50000.00            #This seems to be the one.
+CNY: 232171.37
+JPY: 3627980.04
+RUB: 2141243.49
+
+'''
+
+Answer: Australia
