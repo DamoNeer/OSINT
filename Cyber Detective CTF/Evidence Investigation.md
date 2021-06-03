@@ -307,7 +307,7 @@ currency_list = ['USD', 'EUR', 'CAD', 'GBP',
 
 for currency in currency_list:
     location_checker(currency)
-
+----------------------------------------------------------------------------------------------
 USD: 33470.01
 EUR: 30166.47
 CAD: 44306.23
