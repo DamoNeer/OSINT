@@ -143,6 +143,8 @@ I went to google map and searched for "Poppy-n-Pals Pet Care Service" for the ge
 
 Once I have found the general location, I planned to look at the street view from bottom right corner counterclockwise from outer street to inner street. Within minutes of clicking through street view, I have found the target on Amherst Cres.
 
+I have also made sure to look at the most recent view on street view due to the nature of when this CTF was created.
+
 ![image](https://user-images.githubusercontent.com/81070073/120707644-72b7e380-c46f-11eb-9458-8bd24b9a207d.png)
 
 Answer: red blue
