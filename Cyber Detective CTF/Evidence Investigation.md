@@ -148,3 +148,83 @@ I have also made sure to look at the most recent view on street view due to the 
 ![image](https://user-images.githubusercontent.com/81070073/120707644-72b7e380-c46f-11eb-9458-8bd24b9a207d.png)
 
 Answer: red blue
+
+# proofinthesignal - challenge
+
+We've received fresh intel from the team leading an important investigation.
+
+We've become aware that one of our targets, James Markson, has retained his links with the city of Bristol, UK.
+
+We've also learned that this individual always has his personal hotspot enabled on his smartphone, as he does not wish to subscribe to a regular home broadband service.
+
+This means the target's WiFi signal from their phone may have registered on a public WiFi mapping service.
+
+One intelligence analyst noted that 'jammy' may be the SSID (the name of the wireless network).
+
+The team says you'll need a sharp eye for this one.
+
+What is the STREET NAME where we the target has likely been in the city of Bristol?
+
+# proofinthesignal - solution
+
+There is only one result that comes up on https://www.wigle.net after inputting city as "Bristol" and SSID as "jammy".
+
+![image](https://user-images.githubusercontent.com/81070073/120710678-4a31e880-c473-11eb-8cd1-90e326c0b3a7.png)
+
+The street address of the coordinates is: st marks rd
+
+Answer: st marks road
+
+# sos - challenge
+
+--. --- .-.. -.. . -. . .- --. .-.. .
+
+# sos - solution
+
+This is morse code.
+
+Answer: GOLDENEAGLE
+
+# undercover - challenge
+
+It seems like there's nothing there, but why would a target have a blank file on their computer? Are they hiding something?
+
+We really need to find the lock combination for the self-storage unit where the target has stashed counterfeit bank notes. We've trawled through all the other files we've found already, and its just this one that remains.
+
+Have a look for us would you?
+
+# undercover - solution
+
+Press "Ctrl + A" to select all in the pdf, copy and paste the content somewhere to see the text.
+
+![image](https://user-images.githubusercontent.com/81070073/120712394-6c2c6a80-c475-11eb-9ad8-0b6ddcf2636e.png)
+
+Answer: 956445
+
+# defrauded - challenge
+
+Can you have a look at the attached fraudulent invoice and find out the ORIGINAL DATE OF CREATION by the legitimate TP and Co?
+
+Enter your response as: DD/MM/YYYY.
+
+# defrauded - solution
+
+![image](https://user-images.githubusercontent.com/81070073/120712621-b9a8d780-c475-11eb-9957-5ae9445c4b63.png)
+
+Answer: 13/05/2012
+
+![DCIM453](https://user-images.githubusercontent.com/81070073/120712754-e5c45880-c475-11eb-80de-785d32c0c81e.jpg)
+
+# photophile - challenge
+
+What is the CAMERA MODEL / DEVICE MODEL of the device used to photograph the poppies?
+
+![DCIM453](https://user-images.githubusercontent.com/81070073/120713086-4a7fb300-c476-11eb-8145-50bc1e08b964.jpg)
+
+# photophile - solution
+
+I used "Jeffrey's Image Metadata Viewer" to look at the exif data of the photo.
+
+![image](https://user-images.githubusercontent.com/81070073/120713078-481d5900-c476-11eb-81b7-4a9b49966aa3.png)
+
+Answer: Moto G3
