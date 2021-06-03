@@ -112,3 +112,29 @@ This one was surprisingly straightforward. I just uploaded the image on the give
 
 Answer: Meet me at London Heathrow Airport at the usual time where we will begin executing our plan.
 
+# gunpowder - challenge
+
+Could you please find the NAME OF THE ROAD that runs outside the building this camera is in.
+
+![camfeed-2](https://user-images.githubusercontent.com/81070073/120705604-e1e00880-c46c-11eb-8a9a-348099fbcf3a.PNG)
+
+# gunpowder - solution
+
+Simply googling "the birchmount lofts location" will lead me to the address according to the third link on the page:
+"1555 birchmount rd"
+
+![image](https://user-images.githubusercontent.com/81070073/120705824-24094a00-c46d-11eb-8bee-71b067a48086.png)
+
+Answer: birchmount
+
+# rollingeyes - challenge
+
+So we can be confident we've actually spotted them, can you confirm the COLOUR of their HOODIE and the COLOUR of their T-SHIRT.
+
+All they've given me is an overlay from the drone... Hopefully this is enough? I've attached it to this tasking for you. We think they were getting out of a car at the time.
+
+Enter the flag as such: (HOODIE COLOUR) (SPACE) (T-SHIRT COLOUR)
+
+![drone-1](https://user-images.githubusercontent.com/81070073/120705967-54e97f00-c46d-11eb-86d5-104c017e261b.JPG)
+
+# rollingeyes - solution
