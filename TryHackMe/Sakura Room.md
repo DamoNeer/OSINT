@@ -58,4 +58,32 @@ What mining pool did the attacker receive payments from on January 23, 2021 UTC?
 
 What other cryptocurrency did the attacker exchange with using their cryptocurrency wallet? tether
 
+# Taunt - challenge
 
+Just as we thought, the cybercriminal is fully aware that we are gathering information about them after their attack. They were even so brazen as to message the OSINT Dojo on Twitter and taunt us for our efforts. The Twitter account which they used appears to use a different username than what we were previously tracking, maybe there is some additional information we can locate to get an idea of where they are heading to next?
+
+We've taken a screenshot of the message sent to us by the attacker, you can view it in your browser
+
+![](https://raw.githubusercontent.com/OsintDojo/public/main/taunt.png)
+
+# Taunt - solution
+
+The image shows us that the attacker's twitter handle was "AikoAbe3", but if you search it on Twitter, you will only see an empty profile with no tweets.
+
+However, if you do a google search on "AikoAbe3", it will lead you to another profile that referenced it and that's the actual profile we are looking for: https://twitter.com/sakuraloveraiko?lang=en
+
+![image](https://user-images.githubusercontent.com/81070073/120736587-5c2a8000-c4a1-11eb-91bf-9ede96098522.png)
+
+These two posts are hints that we have to go to the Dark Web, specifically go to "DEEP PASTE"'s onion link and input the md5 hash to see the attacker's screenshot of Wifi and passwords. (DeepPaste has an option that let you search for screenshots after providing the md5 hash)
+
+![vmplayer_Hqtk1kfodn](https://user-images.githubusercontent.com/81070073/120736667-854b1080-c4a1-11eb-9b04-82f16f8a5d5a.png)
+
+The last row tells us what the home wifi's ssid is. Inputting that on https://wigle.net/search?ssid=DK1F-G will lead us to its BSSID.
+
+What is the attacker's current Twitter handle? SakuraLoverAiko
+
+What is the URL for the location where the attacker saved their WiFi  SSIDs and passwords? http://depastedihrn3jtw.onion/show.php?md5=0a5c6e136a98a60b8a21643ce8c15a74
+
+What is the BSSID for the attacker's Home Wifi? 84:AF:EC:34:FC:F8
+
+# 
