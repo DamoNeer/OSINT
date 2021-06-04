@@ -46,14 +46,39 @@ User Spiderfoot to perform scans on "Thomas Straussman" and "Tstraussman".
 
 I did a scan on the target "Tstraussman" and I got the following results.
 
-![image](https://user-images.githubusercontent.com/81070073/120871633-03b2bb80-c551-11eb-80d1-407a412b2258.png)
+![image](https://user-images.githubusercontent.com/81070073/120871740-5b512700-c551-11eb-80fd-e258f92b6dde.png)
 
 Navigating to the shadowban API link, I was able to see the value of "search".
 
-![image](https://user-images.githubusercontent.com/81070073/120871679-25ac3e00-c551-11eb-94b2-9f47a87b66a0.png)
+![image](https://user-images.githubusercontent.com/81070073/120871719-4e343800-c551-11eb-9ca9-aa021cbf30fb.png)
 
 What was the source module used to find these accounts? sfp_accounts
 
 Check the shadowban API. What is the value of "search"? ks{1346173539712380929}
 
-# 
+# Connections, connections.. - challenge
+
+Since you have gotten most useful information from Thomas' Twitter, it's time to "pivot" to his fiancee's account.
+
+What personal information can you find?
+
+# Connections, connections.. - solution
+
+![image](https://user-images.githubusercontent.com/81070073/120871787-8b98c580-c551-11eb-987b-3375f89f3cec.png)
+
+First two tweets show a TV show that she is currently watching and her adorable cat's name.
+
+![image](https://user-images.githubusercontent.com/81070073/120871829-a4a17680-c551-11eb-8928-7d81057037dd.png)
+
+The next two posts tell us that her mother's birthday is on the 25th December and she went to Germany for vacation. Since the question is asking for the city as well, I did a reverse image search on the image. On Bing, I was able to confirm the city and the country.
+
+![image](https://user-images.githubusercontent.com/81070073/120871921-f34f1080-c551-11eb-9689-4f7de764f2b5.png)
+
+Where did Thomas and his finacee vacation to? Koblenz, Germany
+
+When is Francesca's Mother's birthday? December 25th
+
+What is the name of their cat? Gotank
+
+What show does Francesca like to watch? 90 Day Fiancee
+
