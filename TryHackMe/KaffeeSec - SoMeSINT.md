@@ -104,7 +104,13 @@ Furthermore, Hans' reddit bio said "Nuuk is the best"
 
 ![image](https://user-images.githubusercontent.com/81070073/120872410-905e7900-c553-11eb-9ef9-4f9e23fb967f.png)
 
+Hans' reddit page has four captures. Navigating to the one in March, there is a deleted post called "Electric Boogaloo"
 
+![image](https://user-images.githubusercontent.com/81070073/120872493-c996e900-c553-11eb-848a-549435a8e5f5.png)
 
+Clicking it will lead us to a ghostbin with the paste ID (ww4ju). It contains a screenshot of Hans exposing Thomas' affair. And there is another ghostbin link along with the password embedded in it. We can find Thomas' email address and the name of his mistress there.
 
+![image](https://user-images.githubusercontent.com/81070073/120872634-1a0e4680-c554-11eb-962d-ee7979204a87.png)
+
+![image](https://user-images.githubusercontent.com/81070073/120872675-3ca05f80-c554-11eb-9f7c-af001518ac31.png)
 
