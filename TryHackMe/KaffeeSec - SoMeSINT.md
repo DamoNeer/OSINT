@@ -40,7 +40,20 @@ What is Thomas' background picture of? ks{Buddha}
 
 # Spider... what? - challenge
 
-User Spiderfoot to perform scans on "Thomas Straussman" and "tstraussman".
+User Spiderfoot to perform scans on "Thomas Straussman" and "Tstraussman".
 
 # Spider... what? - solution
 
+I did a scan on the target "Tstraussman" and I got the following results.
+
+![image](https://user-images.githubusercontent.com/81070073/120871633-03b2bb80-c551-11eb-80d1-407a412b2258.png)
+
+Navigating to the shadowban API link, I was able to see the value of "search".
+
+![image](https://user-images.githubusercontent.com/81070073/120871679-25ac3e00-c551-11eb-94b2-9f47a87b66a0.png)
+
+What was the source module used to find these accounts? sfp_accounts
+
+Check the shadowban API. What is the value of "search"? ks{1346173539712380929}
+
+# 
