@@ -98,7 +98,7 @@ First of all, the twitter post about a first class lounge is located in Haneda A
 
 Second of all, it took the attacker 16 hours to post that photo after taking her first flight. 
 
-Third of all, from her linkedin profile, I see that she has gone to school and worked in Georgia, US. This would explain why the flight to Japan would take 16 hours. 
+Third of all, from her screenshot about the wifi and passwords. I looked up each of the location and I got Georgia (the place she studied and worked) and Hirosaki (she has a free wifi SSID there and she also has a mcdonald wifi there). Hirosaki is probably her "home".
 
 However, the white building hiding in the background of the photo is proof that she was not in Georgia. That white building is actually in Washington, DC.
 
@@ -112,4 +112,14 @@ Then, I cropped the white building and put in each place as keyword on Yandex to
 
 Bingo, Washington! The closest airport to Washington Monument is Ronald Reagan Washington National Airport.
 
+The last picture the attacker sent on Twitter is a satelite picture of Japan. 
 
+![image](https://user-images.githubusercontent.com/81070073/120741979-f6db8c80-c4aa-11eb-82a4-6e161149b875.png)
+
+What airport is closest to the location the attacker shared a photo from prior to getting on their flight? DCA
+
+What airport did the attacker have their last layover in? HND
+
+What lake can be seen in the map shared by the attacker as they were on their final flight home? lake Inawashiro
+
+What city does the attacker likely consider "home"? Hirosaki
