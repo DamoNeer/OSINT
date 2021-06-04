@@ -86,4 +86,30 @@ What is the URL for the location where the attacker saved their WiFi  SSIDs and 
 
 What is the BSSID for the attacker's Home Wifi? 84:AF:EC:34:FC:F8
 
-# 
+# Homebound - challenge
+
+Based on their tweets, it appears our cybercriminal is indeed heading home as they claimed. Their Twitter account seems to have plenty of photos which should allow us to piece together their route back home. If we follow the trail of breadcrumbs they left behind, we should be able to track their movements from one location to the next back all the way to their final destination. Once we can identify their final stops, we can identify which law enforcement organization we should forward our findings to.
+
+# Homebound - solution
+
+First of all, the twitter post about a first class lounge is located in Haneda Airport.
+
+![image](https://user-images.githubusercontent.com/81070073/120739346-35227d00-c4a6-11eb-834e-d4eeab934272.png)
+
+Second of all, it took the attacker 16 hours to post that photo after taking her first flight. 
+
+Third of all, from her linkedin profile, I see that she has gone to school and worked in Georgia, US. This would explain why the flight to Japan would take 16 hours. 
+
+However, the white building hiding in the background of the photo is proof that she was not in Georgia. That white building is actually in Washington, DC.
+
+I have googl'ed the best places in America to watch cherry blossoms: https://www.nationalgeographic.com/travel/article/cherry-blossom-bloom-predictions-spring
+
+The listed places are: Washington, DC , Georgia, Connecticut...etc (There are eight places total)
+
+Then, I cropped the white building and put in each place as keyword on Yandex to see if I was able to find an exact match.
+
+![image](https://user-images.githubusercontent.com/81070073/120740530-381e6d00-c4a8-11eb-94a1-b9387530c9f3.png)
+
+Bingo, Washington! The closest airport to Washington Monument is Ronald Reagan Washington National Airport.
+
+
