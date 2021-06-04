@@ -114,3 +114,14 @@ Clicking it will lead us to a ghostbin with the paste ID (ww4ju). It contains a 
 
 ![image](https://user-images.githubusercontent.com/81070073/120872675-3ca05f80-c554-11eb-9f7c-af001518ac31.png)
 
+What is the name of Thomas' coworker? Hans Minik
+
+Where does his coworker live? Nuuk, Greenland
+
+What is the paste ID for the link we found? ks{ww4ju}
+
+Password for the next link? ks{1qaz2wsx}
+
+What's the name of Thomas' mistress? Emilia Moller
+
+What is Thomas' Email address? straussmanthom@mail.com
