@@ -82,3 +82,29 @@ What is the name of their cat? Gotank
 
 What show does Francesca like to watch? 90 Day Fiancee
 
+# Turn back the clock!! - challenge
+
+Use the old version of Reddit and wayback machine to find deleted contents.
+
+# Turn back the clock!! - solution
+
+![image](https://user-images.githubusercontent.com/81070073/120872167-bafc0200-c552-11eb-914a-0396316e2035.png)
+
+I found that in December 2020 there was a deleted comment on the same birthday post on Thomas' profile I mentioned earlier. The comment was made by someone named Hans with the handle "minikhans".
+
+I did a scan on "minikhans" using SpiderFoot and I potentially found his first name and last name from his gravatar profile's json file.
+
+![image](https://user-images.githubusercontent.com/81070073/120872286-18904e80-c553-11eb-8a8f-ed8ba9230a1f.png)
+
+Hans made a post celebrating the fact that he got a job from his friend Thomas. Assuming that the job is local, he and Thomas might be living in the same city. Thomas' twitter profile said that he lives in Nuuk, Greenland.
+
+![image](https://user-images.githubusercontent.com/81070073/120872367-6d33c980-c553-11eb-890d-230c0608a1cc.png)
+
+Furthermore, Hans' reddit bio said "Nuuk is the best"
+
+![image](https://user-images.githubusercontent.com/81070073/120872410-905e7900-c553-11eb-9ef9-4f9e23fb967f.png)
+
+
+
+
+
