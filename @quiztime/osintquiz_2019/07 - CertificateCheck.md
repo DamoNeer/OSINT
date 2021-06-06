@@ -8,7 +8,7 @@ Can you find the SHA1 fingerprint of the very FIRST SSL certificate that was iss
 
 The company website is: https://www.silensec.com/
 
-Tool: https://crt.sh/?q=Silensec
+Input the domain name "silensec" into this tool https://crt.sh/?q=Silensec will get you the SHA-1 fingerprint.
 
 ![image](https://user-images.githubusercontent.com/81070073/120943971-fcbdb180-c6e6-11eb-85ff-5e430a98cd83.png)
 
