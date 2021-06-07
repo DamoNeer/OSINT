@@ -6,7 +6,7 @@ In November 2019 it was known that at least 8 flights were recorded by a helicop
 
 I googled "helicopter ICAO 4984B0" and I came across this site: https://www.live-military-mode-s.eu/PublicArea/indexmilads5.php
 
-I selected 4984B0 Enstrom and that gave me the answer.
+I selected 4984B0 Enstrom and that gave me the answer. Even though the data is only available for 2021, I assumed it's still in the same country.
 
 Flag: czechrepublic
 
