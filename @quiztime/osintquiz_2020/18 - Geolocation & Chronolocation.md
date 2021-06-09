@@ -25,6 +25,6 @@ Next, I used SunCalc to determine what the 'Azimuth' is.
 
 I placed the center of the circle exactly where I think the person was standing at that time. Then, I adjusted the time until the sun appears to be where the chimneys are just like in the photo.
 
-![image](https://user-images.githubusercontent.com/81070073/121303489-00506480-c8b0-11eb-80eb-e2d0e5df3bd1.png)
+![image](https://user-images.githubusercontent.com/81070073/121303886-75bc3500-c8b0-11eb-9934-14940e896557.png)
 
 Flag: 288
