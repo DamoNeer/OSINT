@@ -13,4 +13,18 @@ Send the degrees that you have as an answer, after you round it up or down, and 
 
 # Solution
 
+On Google map, I looked for Holzmarkt and a place that is close to the river so that I can get a closer look on Street view.
 
+![image](https://user-images.githubusercontent.com/81070073/121301887-b4042500-c8ad-11eb-957a-bacd74bd3109.png)
+
+I came across this spot which does contain the two chimneys in the original photo.
+
+![image](https://user-images.githubusercontent.com/81070073/121302011-e0b83c80-c8ad-11eb-9166-4338599a5736.png)
+
+Next, I used SunCalc to determine what the 'Azimuth' is.
+
+I placed the center of the circle exactly where I think the person was standing at that time. Then, I adjusted the time until the sun appears to be where the chimneys are just like in the photo.
+
+![image](https://user-images.githubusercontent.com/81070073/121303489-00506480-c8b0-11eb-80eb-e2d0e5df3bd1.png)
+
+Flag: 288
